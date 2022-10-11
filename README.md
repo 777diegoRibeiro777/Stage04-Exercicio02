@@ -3,7 +3,7 @@
 > Treinamento Explorer
 
 
-[&#128279; Clique aqui para visualizar]()
+[&#128279; Clique aqui para visualizar](https://777diegoribeiro777.github.io/Stage04-Exercicio02/)
 
 ## &#128204; Objetivo
 Principais pontos abordados nesse desafio:
